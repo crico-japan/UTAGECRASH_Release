@@ -8,3 +8,7 @@ Settings > Pages > Build and deployment
 してSaveボタンを押す
 
 以降、docsディレクトリ配下にWebGLをビルドすることで、確認出来るようになる。
+
+## 確認用URL
+
+https://crico-japan.github.io/UTAGECRASH_Release/
